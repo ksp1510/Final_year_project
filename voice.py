@@ -1,3 +1,4 @@
+'''This module is used to generate voice command/instruction from text using google text to speech library.'''
 from gtts import gTTS
 import os
 

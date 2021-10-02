@@ -1,3 +1,4 @@
+'''This module is created to get sensor data reading from Arduino Uno to Raspberry Pi through serial data transfer'''
 import serial
 import RPi.GPIO as GPIO
 import time
